@@ -759,6 +759,13 @@ ul.contact li a.icon-rss:before
 	color: #000;
 }
 
+#copyright p:hover a, #copyright p:active a, #copyright p:active span
+{
+  background: #ffffff;
+
+  
+}
+
 /*********************************************************************************/
 /* Featured                                                                      */
 /*********************************************************************************/
